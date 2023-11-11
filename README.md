@@ -1,3 +1,5 @@
+This repository is a fork of MoreUnit's official master repository for the purpose of testing some ideas.
+
 # MoreUnit For Eclipse
 
 <img alt="MoreUnit Logo" src="https://moreunit.github.io/MoreUnit-Eclipse/img/logo.png" />
